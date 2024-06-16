@@ -1,0 +1,6 @@
+bin/
+obj/
+.idea
+.vscode
+netcoreapp3.1/
+config/
