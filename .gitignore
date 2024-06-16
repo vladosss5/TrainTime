@@ -4,4 +4,4 @@ obj/
 .vscode
 netcoreapp3.1/
 config/
-#.bkp
+.bkp
