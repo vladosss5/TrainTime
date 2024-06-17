@@ -14,4 +14,10 @@
       <Compile Include="obj\lm.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\TrainTiming.Application\TrainTiming.Application.csproj" />
+      <ProjectReference Include="..\TrainTiming.Core\TrainTiming.Core.csproj" />
+      <ProjectReference Include="..\TrainTiming.Persistence\TrainTiming.Persistence.csproj" />
+    </ItemGroup>
+
 </Project>
